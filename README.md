@@ -2,9 +2,9 @@
 <h3 align="center">I love programming </h3>
 
 
-- 🔭 I’m currently working on Mobile Application 
+- 🔭 I’m currently working on Website Development
 
-- 🌱 I’m currently learning **Flutter, SwiftUI**
+- 🌱 I’m currently learning **JavaScript, React**
 
 - 👯 I’m looking to collaborate with **other content creators**
 

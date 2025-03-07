@@ -10,7 +10,7 @@
 
 # About Me
 
-I'm Masud Rana, a passionate computer science enthusiast who recently earned a Bachelor of Science degree in Computer Science and Engineering (CSE). My love for programming has been a driving force throughout my academic journey. I find immense joy and fulfillment in writing code and creating innovative solutions to real-world problems.
+I'm Masud Rana, a passionate computer science enthusiast who earned a Bachelor of Science degree in Computer Science and Engineering (CSE). My love for programming has been a driving force throughout my academic journey. I find immense joy and fulfillment in writing code and creating innovative solutions to real-world problems.
 
 Currently, my focus lies in the world of web development, particularly in the realm of JavaScript,React. I am dedicated to honing my skills and knowledge in this versatile library, which allows me to craft seamless and visually appealing cross-platform web development.
 

@@ -16,25 +16,22 @@
 ---
 
 ## 🛠️ Tech Stack  
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS · Redux  
-**Backend:** Node.js · Express · Laravel · MySQL / PostgreSQL / MongoDB  
-**Tools:** Git · Docker · VS Code · Postman · Jira · Figma  
+Languages: JavaScript, PHP, C, C++, Dart
+Frontend: ReactJS, HTML5, CSS3, Bootstrap, Tailwind CSS
+Backend & Tools: Laravel, SQL, Firebase, RESTful APIs
+Software & Platforms: VS Code, Git/GitHub, Figma, Android Studio, MS Excel/Word/Teams 
 
 ---
 
 ## ✅ Selected Projects  
-### [Project-A] — Full-stack React + Node.js web app  
-- Description …  
-- Features … (authentication, REST API, etc.)  
-- Live demo: [URL] · Screenshot / GIF  
+### [Responsive Car Website] — JavaScript  
+ –  | GitHub
+• Developed a mobile-friendly landing page using HTML, CSS, and JavaScript.
+• Enhanced interactivity with CSS animations and DOM manipulation. Professional Experience 
 
-### [Project-B] — Next.js portfolio & blog  
-- Description …  
-- Static generation, responsive design, etc.  
-- Demo link  
-
-### [Project-C] — React Native / Flutter … (if relevant)  
-...  
+### [Todo App] — React
+• Built a responsive Todo web app using ReactJS and Hooks for state management.
+• Implemented CRUD functionality and reusable components.
 
 ---
 

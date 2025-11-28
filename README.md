@@ -29,16 +29,12 @@
 ## 📂 Featured Projects
 
 | Project | Description |
+
 | **[Todo App]** | Built a responsive Todo web app using ReactJS and Hooks for state management. Implemented CRUD functionality and reusable components. |
+
 | **[Responsive Car Website]** | Developed a mobile-friendly landing page using HTML, CSS, and JavaScript. Enhanced interactivity with CSS animations and DOM manipulation. Professional Experience
+
 | **Online Hotel Booking System** | A full-stack web application (Laravel + MySQL) for hotel booking: user auth, room management, booking system. |
-
----
-
-## 📈 GitHub Stats
-
-<!-- You can embed a stats card if you like — example below -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=masudrana101&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 

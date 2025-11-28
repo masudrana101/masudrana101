@@ -35,14 +35,9 @@ Software & Platforms: VS Code, Git/GitHub, Figma, Android Studio, MS Excel/Word/
 
 ---
 
-## 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=masudrana101&show_icons=true&theme=radical)  
-
----
-
 ## 📫 Get in Touch  
 - LinkedIn: [https://www.linkedin.com/in/md-masud-rana-7a8677166/]  
 - Email: [masud.cse.sub@gmail.com]  
-- Website / Portfolio: [[if available](https://github.com/masudrana101/taskmate)]  
+- Website / Portfolio: [(https://github.com/masudrana101/taskmate)]  
 
 

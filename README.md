@@ -10,6 +10,11 @@
 🌱 Currently learning: Next.js, Tailwind CSS  
 📫 Reach me at: masud.cse.sub@gmail.com
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masudrana101&layout=compact&theme=radical)
+![Masud's GitHub stats](https://github-readme-stats.vercel.app/api?username=masudrana101&show_icons=true&theme=radical)
+
+
 ### 🛠️ **Tech Stack**
 **Frontend:** React · Next.js · TypeScript · Tailwind CSS  
 **Backend:** Laravel ·

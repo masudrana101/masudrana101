@@ -4,10 +4,16 @@
 [![Email](https://img.shields.io/badge/Email-masud.cse.sub@gmail.com-red?style=flat-square&logo=gmail)](mailto:masud.cse.sub@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp)]( https://wa.me/qr/762BWBEMWC3TF1 )
 
+### 🧭 **About Me**
 💻 Web Developer | React JS | JavaScript  
 🚀 Passionate about building modern, responsive web apps.  
 🌱 Currently learning: Next.js, Tailwind CSS  
 📫 Reach me at: masud.cse.sub@gmail.com
 
+### 🛠️ **Tech Stack**
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS  
+**Backend:** Laravel ·
+**Database:** MySQL · MongoDB · Redis · PostgreSQL   
+**Tools:** Git · Jira · Postman · Figma
 
-fghhg
+
